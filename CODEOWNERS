@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ksdicecream
+/src/backend/database.py      @ksdicecream
+/src/backend/routers/auth.py  @ksdicecream
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ksdicecream
